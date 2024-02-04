@@ -17,4 +17,4 @@ CONTOH USERS PAGE\
 <img src="assets/images/screenshoot/UsersPage.png" width="250">
 
 CONTOH ALBUM DETAIL PAGE\
-<img src="assets/images/screenshoot/AlbumDetailPage.png" width="250">
+<img src="assets/images/screenshoot/DetailPage.png" width="250">
